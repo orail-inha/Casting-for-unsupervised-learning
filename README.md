@@ -6,7 +6,7 @@
 
 ![defect types with GT](images/anomalous_examples_with_GT.png)
 
-원본 데이터셋 : <https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product>.
+원본 데이터셋 : <https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product>
 ## Dataset
 1. 다양한 조명 및 각도에서 촬영한 정상데이터들을 train과 test 단계의 normal data로 선정
 2. Impeller에서 발생하는 다양한 유형의 결함들을 파악하고 이를 test 단계의 anomaly data로 선정
